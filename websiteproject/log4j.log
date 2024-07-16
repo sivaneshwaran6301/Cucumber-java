@@ -1,0 +1,182 @@
+2022-11-19 13:21:57 INFO  Base :47 - openingchromebrowser
+2022-11-19 13:23:10 INFO  Base :97 - clicking login button
+2022-11-19 13:23:31 WARN  Signin :126 - error in valid input source code
+2022-11-19 13:23:34 INFO  Purchase :88 - search page is verified
+2022-11-19 13:23:56 INFO  Purchase :111 - cart page is verified
+2022-11-19 13:23:56 INFO  Cucumber :73 - closing browser
+2022-11-19 13:23:58 INFO  Cucumber :85 - report ready to view
+2022-11-19 13:37:28 INFO  Base :47 - openingchromebrowser
+2022-11-19 13:38:35 INFO  Purchase :57 - search page pass
+2022-11-19 13:38:36 INFO  Purchase :90 - search page is verified
+2022-11-19 13:38:51 INFO  Purchase :113 - cart page is verified
+2022-11-19 13:38:51 INFO  Cucumber :73 - closing browser
+2022-11-19 13:38:54 INFO  Cucumber :85 - report ready to view
+2022-12-05 19:39:53 INFO  Base :47 - openingchromebrowser
+2022-12-05 19:41:12 INFO  Base :47 - openingchromebrowser
+2022-12-05 19:41:22 INFO  Base :47 - openingchromebrowser
+2022-12-05 19:42:18 INFO  Signin :64 - entering valid input in signin page
+2022-12-05 19:42:18 INFO  Base :97 - clicking login button
+2022-12-05 19:42:25 INFO  Signin :116 - login pass for valid input
+2022-12-05 19:42:29 INFO  Purchase :57 - search page pass
+2022-12-06 13:30:53 INFO  Base :47 - openingchromebrowser
+2022-12-06 13:32:04 INFO  Base :47 - openingchromebrowser
+2022-12-06 14:59:09 INFO  Base :47 - openingchromebrowser
+2022-12-06 15:00:12 INFO  Base :47 - openingchromebrowser
+2022-12-06 15:01:04 INFO  Signin :64 - entering valid input in signin page
+2022-12-06 15:01:04 INFO  Base :98 - clicking login button
+2022-12-06 15:01:04 INFO  Cucumber :73 - closing browser
+2022-12-06 15:01:14 INFO  Cucumber :85 - report ready to view
+2022-12-06 15:10:35 INFO  Base :47 - openingchromebrowser
+2022-12-06 15:11:45 INFO  Signin :64 - entering valid input in signin page
+2022-12-06 15:11:45 INFO  Base :98 - clicking login button
+2022-12-06 15:11:45 INFO  Cucumber :73 - closing browser
+2022-12-06 15:11:48 INFO  Cucumber :85 - report ready to view
+2022-12-06 15:12:27 INFO  Base :47 - openingchromebrowser
+2022-12-06 15:41:40 INFO  Base :49 - openingchromebrowser
+2022-12-06 15:43:02 INFO  Base :49 - openingchromebrowser
+2022-12-06 15:46:06 INFO  Base :49 - openingchromebrowser
+2022-12-06 15:48:27 INFO  Base :49 - openingchromebrowser
+2022-12-06 15:52:37 INFO  Base :47 - openingchromebrowser
+2022-12-06 15:53:47 INFO  Signin :64 - entering valid input in signin page
+2022-12-06 15:53:47 INFO  Base :98 - clicking login button
+2022-12-06 15:53:47 INFO  Cucumber :73 - closing browser
+2022-12-06 15:53:57 INFO  Cucumber :85 - report ready to view
+2022-12-06 16:20:35 INFO  Base :47 - openingchromebrowser
+2022-12-06 16:21:51 INFO  Signin :64 - entering valid input in signin page
+2022-12-06 16:21:51 INFO  Base :98 - clicking login button
+2022-12-06 16:21:56 INFO  Signin :117 - login pass for valid input
+2022-12-06 16:21:56 INFO  Cucumber :73 - closing browser
+2022-12-06 16:22:07 INFO  Base :47 - openingchromebrowser
+2022-12-06 16:23:10 INFO  Signin :90 - entering invalid input in signin page
+2022-12-06 16:23:11 INFO  Base :98 - clicking login button
+2022-12-06 16:23:12 INFO  Signin :147 - login pass for invalid input
+2022-12-06 16:23:12 INFO  Cucumber :73 - closing browser
+2022-12-06 16:23:19 INFO  Base :47 - openingchromebrowser
+2022-12-06 16:24:45 INFO  Signin :64 - entering valid input in signin page
+2022-12-06 16:24:45 INFO  Base :98 - clicking login button
+2022-12-06 16:25:03 INFO  Signin :117 - login pass for valid input
+2022-12-06 16:25:13 INFO  Purchase :57 - search page pass
+2022-12-06 16:25:43 INFO  Purchase :112 - cart page is verified
+2022-12-06 16:25:43 INFO  Cucumber :73 - closing browser
+2022-12-06 16:25:54 INFO  Cucumber :85 - report ready to view
+2022-12-08 10:47:28 INFO  Base :47 - openingchromebrowser
+2022-12-09 14:40:30 INFO  Base :47 - openingchromebrowser
+2022-12-09 14:42:04 INFO  Signin :64 - entering valid input in signin page
+2022-12-09 14:42:04 INFO  Base :98 - clicking login button
+2022-12-09 14:42:09 INFO  Signin :117 - login pass for valid input
+2022-12-09 14:42:09 INFO  Cucumber :73 - closing browser
+2022-12-09 14:42:11 INFO  Base :47 - openingchromebrowser
+2022-12-09 14:43:00 INFO  Signin :90 - entering invalid input in signin page
+2022-12-09 14:43:00 INFO  Base :98 - clicking login button
+2022-12-09 14:43:13 INFO  Signin :147 - login pass for invalid input
+2022-12-09 14:43:13 INFO  Cucumber :73 - closing browser
+2022-12-09 14:43:15 INFO  Base :47 - openingchromebrowser
+2022-12-09 14:43:54 INFO  Signin :64 - entering valid input in signin page
+2022-12-09 14:43:54 INFO  Base :98 - clicking login button
+2022-12-09 14:44:36 INFO  Signin :117 - login pass for valid input
+2022-12-09 14:44:44 INFO  Purchase :57 - search page pass
+2022-12-09 14:45:15 INFO  Purchase :112 - cart page is verified
+2022-12-09 14:45:15 INFO  Cucumber :73 - closing browser
+2022-12-09 14:45:17 INFO  Cucumber :85 - report ready to view
+2022-12-10 10:57:58 INFO  Base :49 - openingchromebrowser
+2022-12-10 10:58:52 INFO  Purchase :58 - search page pass
+2022-12-10 10:59:11 INFO  Purchase :113 - cart page is verified
+2022-12-10 10:59:11 INFO  Cucumber :73 - closing browser
+2022-12-10 10:59:13 INFO  Cucumber :85 - report ready to view
+2022-12-13 11:45:28 INFO  Base :49 - openingchromebrowser
+2022-12-13 11:46:18 INFO  Base :49 - openingchromebrowser
+2022-12-13 11:47:13 INFO  Signin :64 - entering valid input in signin page
+2022-12-13 11:47:13 INFO  Base :99 - clicking login button
+2022-12-13 11:47:16 INFO  Signin :118 - login pass for valid input
+2022-12-13 11:47:16 INFO  Cucumber :73 - closing browser
+2022-12-13 11:47:34 INFO  Base :49 - openingchromebrowser
+2022-12-13 11:48:29 INFO  Signin :90 - entering invalid input in signin page
+2022-12-13 11:48:29 INFO  Base :99 - clicking login button
+2022-12-13 11:48:30 INFO  Signin :148 - login pass for invalid input
+2022-12-13 11:48:30 INFO  Cucumber :73 - closing browser
+2022-12-13 15:33:57 INFO  Base :49 - openingchromebrowser
+2022-12-13 15:34:35 INFO  Base :49 - openingchromebrowser
+2022-12-13 15:35:11 INFO  Base :49 - openingchromebrowser
+2022-12-13 16:01:27 INFO  Base :49 - openingchromebrowser
+2022-12-13 16:02:26 INFO  Signin :90 - entering invalid input in signin page
+2022-12-13 16:02:26 INFO  Base :99 - clicking login button
+2022-12-13 16:02:27 INFO  Signin :148 - login pass for invalid input
+2022-12-13 16:02:27 INFO  Cucumber :73 - closing browser
+2022-12-16 10:08:23 INFO  Base :49 - openingchromebrowser
+2022-12-16 10:09:27 INFO  Signin :64 - entering valid input in signin page
+2022-12-16 10:09:27 INFO  Base :99 - clicking login button
+2022-12-16 10:09:34 INFO  Signin :118 - login pass for valid input
+2022-12-16 10:09:38 INFO  Purchase :58 - search page pass
+2022-12-16 10:10:09 WARN  Purchase :115 - error in cart page source code 
+2022-12-16 10:10:09 INFO  Cucumber :74 - closing browser
+2022-12-16 10:10:11 INFO  Base :105 - report ready to view
+2022-12-16 11:39:11 INFO  Base :49 - openingchromebrowser
+2022-12-16 11:39:48 INFO  Signin :90 - entering invalid input in signin page
+2022-12-16 11:39:48 INFO  Base :99 - clicking login button
+2022-12-16 11:39:49 INFO  Signin :148 - login pass for invalid input
+2022-12-16 11:39:49 INFO  Cucumber :74 - closing browser
+2022-12-16 11:39:51 INFO  Base :105 - report ready to view
+2022-12-21 12:34:29 INFO  Base :105 - report ready to view
+2022-12-21 12:36:00 INFO  Base :105 - report ready to view
+2022-12-21 12:36:00 INFO  Base :105 - report ready to view
+2022-12-21 12:36:00 INFO  Base :105 - report ready to view
+2022-12-21 14:49:25 INFO  Base :105 - report ready to view
+2022-12-21 14:49:25 INFO  Base :105 - report ready to view
+2022-12-21 14:49:25 INFO  Base :105 - report ready to view
+2022-12-22 22:46:10 INFO  Base :105 - report ready to view
+2022-12-22 22:46:51 INFO  Base :105 - report ready to view
+2022-12-22 22:48:20 INFO  Base :49 - openingchromebrowser
+2022-12-22 22:51:30 INFO  Base :105 - report ready to view
+2022-12-22 22:52:18 INFO  Base :49 - openingchromebrowser
+2022-12-22 22:53:14 INFO  Base :105 - report ready to view
+2022-12-22 22:53:14 INFO  Base :49 - openingchromebrowser
+2022-12-22 22:55:00 INFO  Base :105 - report ready to view
+2022-12-22 22:55:00 INFO  Base :49 - openingchromebrowser
+2022-12-22 22:57:50 INFO  Base :105 - report ready to view
+2022-12-30 09:18:51 INFO  Base :48 - openingchromebrowser
+2022-12-30 09:20:48 INFO  Base :104 - report ready to view
+2022-12-30 09:21:30 INFO  Base :48 - openingchromebrowser
+2022-12-30 09:24:35 INFO  Base :104 - report ready to view
+2023-03-08 13:59:59 INFO  Base :48 - openingchromebrowser
+2023-03-08 14:02:59 INFO  Base :104 - report ready to view
+2023-03-08 14:03:09 INFO  Base :48 - openingchromebrowser
+2023-03-08 14:04:02 INFO  Base :104 - report ready to view
+2023-03-08 14:06:43 INFO  Base :48 - openingchromebrowser
+2023-03-08 14:07:01 INFO  Base :104 - report ready to view
+2023-03-27 15:22:45 INFO  Base :48 - openingchromebrowser
+2023-03-27 15:23:49 INFO  Base :104 - report ready to view
+2024-02-24 13:23:07 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:24:27 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:24:53 INFO  Base :105 - report ready to view
+2024-02-24 13:24:53 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:25:07 INFO  Base :105 - report ready to view
+2024-02-24 13:25:07 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:25:55 INFO  Base :105 - report ready to view
+2024-02-24 13:27:27 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:28:13 INFO  Base :105 - report ready to view
+2024-02-24 13:28:13 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:28:29 INFO  Base :105 - report ready to view
+2024-02-24 13:28:29 INFO  Base :48 - openingchromebrowser
+2024-02-24 13:28:50 INFO  Base :105 - report ready to view
+2024-02-24 13:29:20 INFO  Base :48 - openingedgebrowser
+2024-02-24 13:31:50 INFO  Base :105 - report ready to view
+2024-02-24 13:31:50 INFO  Base :48 - openingedgebrowser
+2024-02-24 13:32:07 INFO  Base :105 - report ready to view
+2024-02-24 13:32:07 INFO  Base :48 - openingedgebrowser
+2024-02-24 13:32:24 INFO  Base :105 - report ready to view
+2024-02-24 14:11:48 INFO  Base :48 - openingedgebrowser
+2024-02-24 14:11:55 INFO  Base :105 - report ready to view
+2024-02-24 14:11:55 INFO  Base :48 - openingedgebrowser
+2024-02-24 14:12:03 INFO  Base :105 - report ready to view
+2024-02-24 14:12:03 INFO  Base :48 - openingedgebrowser
+2024-02-24 14:12:12 INFO  Base :105 - report ready to view
+2024-02-24 14:12:53 INFO  Base :49 - openingedgebrowser
+2024-02-24 14:13:17 INFO  Base :108 - report ready to view
+2024-02-24 14:13:17 INFO  Base :49 - openingedgebrowser
+2024-02-24 14:13:52 INFO  Base :108 - report ready to view
+2024-02-24 14:13:52 INFO  Base :49 - openingedgebrowser
+2024-02-24 14:14:13 INFO  Base :108 - report ready to view
+2024-02-24 14:16:52 INFO  Base :49 - openingedgebrowser
+2024-02-24 14:17:16 INFO  Base :108 - report ready to view
+2024-07-11 15:28:55 INFO  Base :49 - openingedgebrowser
+2024-07-11 15:29:15 INFO  Base :108 - report ready to view

@@ -1,0 +1,12 @@
+2022-11-18 12:59:22 INFO  testing :16 - start
+2022-11-18 12:59:22 WARN  testing :18 - warning
+2022-11-18 12:59:22 ERROR testing :19 - error
+2022-11-18 12:59:22 FATAL testing :20 - fatal
+2022-11-18 13:03:52 INFO  testing :16 - start
+2022-11-18 13:03:52 WARN  testing :18 - warning
+2022-11-18 13:03:52 ERROR testing :19 - error
+2022-11-18 13:03:52 FATAL testing :20 - fatal
+2022-11-18 13:05:31 INFO  testing :16 - start
+2022-11-18 13:05:32 WARN  testing :18 - warning
+2022-11-18 13:05:32 ERROR testing :19 - error
+2022-11-18 13:05:32 FATAL testing :20 - fatal

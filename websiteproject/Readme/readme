@@ -1,0 +1,29 @@
+Dependency
+	1)junit
+	2)selenium java
+	3)web driver manager
+	4)cucumber junit
+	5)cucumber java
+	6)testng
+	7)extent reports
+	8)log4j
+	
+website url= https://www.flipkart.com/
+
+Steps
+	website homepage > signinpage > login with valid username > close
+	website homepage > signinpage > login with invalid username > close
+	website homepage > signinpage > search page > selecting product > add to cart > place order > close
+	
+data
+	1) valid user id
+	2) valid password
+	3) invalid user id
+	4) invalid password
+	5) product name
+error:
+	hooks
+	testng
+	
+
+	
